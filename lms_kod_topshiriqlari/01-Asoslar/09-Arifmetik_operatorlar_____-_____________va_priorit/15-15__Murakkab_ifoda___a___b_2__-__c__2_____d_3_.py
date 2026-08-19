@@ -1,0 +1,10 @@
+# a, b, c, d (bitta qatorda)
+# result = (a + b*2) - (c//2) + (d%3)
+# "Result: <result>" chiqarilsin.
+a, b, c, d = input().split()
+a = int(a)
+b = int(b)
+c = int(c)
+d = int(d)
+result = (a + b*2) - (c//2) + (d%3)
+print("Result:", result, end="")
