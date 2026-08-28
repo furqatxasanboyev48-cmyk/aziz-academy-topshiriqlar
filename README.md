@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█░░░░░░░░░░░░░░░░░░░` **6%**  (11/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **7%**  (12/179 mavzu)
 
-- ⭐ Jami ball: **9886**
-- 📤 GitHubga yuborilgan topshiriqlar: **73**
+- ⭐ Jami ball: **10191**
+- 📤 GitHubga yuborilgan topshiriqlar: **74**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Solishtirish operatorlari — == != > < >= <=**
+**MODUL 1 — Asoslar** → **Type casting ⭐ — type(), int(), float(), str(), bool()**
 
-➡️ Keyingi mavzu: *Type casting ⭐ — type(), int(), float(), str(), bool()*
+➡️ Keyingi mavzu: *🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -28,8 +28,8 @@
 - ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
 - ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
 - ✅ Mantiqiy operatorlar — and, or, not
-- ✅ Solishtirish operatorlari — == != > < >= <=  ← yetgan joyingiz
-- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ✅ Solishtirish operatorlari — == != > < >= <=
+- ✅ Type casting ⭐ — type(), int(), float(), str(), bool()  ← yetgan joyingiz
 - ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
 - ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
 - ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
+| 1 | 🔸 Asoslar | `████████░░` 80% | 12/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-28 10:16</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-28 11:17</sub>
