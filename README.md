@@ -4,22 +4,22 @@
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **9%**  (16/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **9%**  (17/179 mavzu)
 
-- ⭐ Jami ball: **12423**
-- 📤 GitHubga yuborilgan topshiriqlar: **149**
+- ⭐ Jami ball: **13299**
+- 📤 GitHubga yuborilgan topshiriqlar: **150**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **Index va slicing ⭐ — s[0], s[1:4], s[::-1]**
+**MODUL 2 — Stringlar va Formatlash** → **String metodlari — 1: lower, upper, strip, title**
 
-➡️ Keyingi mavzu: *String metodlari — 1: lower, upper, strip, title*
+➡️ Keyingi mavzu: *String metodlari — 2: replace, find, count, split, join*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]  ← yetgan joyingiz
-- ⬜ String metodlari — 1: lower, upper, strip, title
+- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
+- ✅ String metodlari — 1: lower, upper, strip, title  ← yetgan joyingiz
 - ⬜ String metodlari — 2: replace, find, count, split, join
 - ⬜ in operatori — substring izlash, mavjudlikni tekshirish
 - ⬜ f-string ⭐ — zamonaviy formatlash (f"{ism}")
@@ -36,7 +36,7 @@
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
-| 2 | 🔸 Stringlar va Formatlash | `█░░░░░░░░░` 10% | 1/10 |
+| 2 | 🔸 Stringlar va Formatlash | `██░░░░░░░░` 20% | 2/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
@@ -58,4 +58,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-11 10:22</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-14 11:14</sub>
