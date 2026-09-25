@@ -1,0 +1,2 @@
+
+print("Ali\nVali")
