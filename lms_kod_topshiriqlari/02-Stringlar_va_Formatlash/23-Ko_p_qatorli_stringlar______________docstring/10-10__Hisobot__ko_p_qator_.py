@@ -1,0 +1,1 @@
+print("Hisobot:\nDaromad: 100\nXarajat: 40")
