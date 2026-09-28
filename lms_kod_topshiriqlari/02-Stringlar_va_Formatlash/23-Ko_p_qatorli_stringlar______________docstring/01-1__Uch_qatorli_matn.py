@@ -1,0 +1,3 @@
+print("""Ali
+Vali
+Soli""")
