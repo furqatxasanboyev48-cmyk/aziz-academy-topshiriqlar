@@ -1,0 +1,3 @@
+print("""MENU
+Osh
+Somsa""")
