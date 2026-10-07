@@ -4,30 +4,28 @@
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **10%**  (18/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **12%**  (22/179 mavzu)
 
-- ⭐ Jami ball: **20159**
-- 📤 GitHubga yuborilgan topshiriqlar: **265**
+- ⭐ Jami ball: **22644**
+- 📤 GitHubga yuborilgan topshiriqlar: **266**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi**
-
-➡️ Keyingi mavzu: *Index va slicing ⭐ — s[0], s[1:4], s[::-1]*
+**MODUL 2 — Stringlar va Formatlash** → **🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ⬜ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
+- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
 - ✅ String metodlari — 1: lower, upper, strip, title
-- ⬜ String metodlari — 2: replace, find, count, split, join
-- ⬜ in operatori — substring izlash, mavjudlikni tekshirish
+- ✅ String metodlari — 2: replace, find, count, split, join
+- ✅ in operatori — substring izlash, mavjudlikni tekshirish
 - ✅ f-string ⭐ — zamonaviy formatlash (f"{ism}")
 - ✅ Boshqa formatlash — .format() va % (eski usullar)
 - ✅ Escape belgilar — \n, \t, \\, \"
 - ✅ Ko'p qatorli stringlar — """...""", docstring
-- ✅ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi  ← yetgan joyingiz
-- ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
+- ✅ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
+- ✅ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)  ← yetgan joyingiz
 
 </details>
 
@@ -36,7 +34,7 @@
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `████████░░` 80% | 12/15 |
-| 2 | 🔸 Stringlar va Formatlash | `██████░░░░` 60% | 6/10 |
+| 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
@@ -58,4 +56,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-05 09:33</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-07 10:48</sub>
