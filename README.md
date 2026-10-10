@@ -4,28 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **12%**  (22/179 mavzu)
+`███░░░░░░░░░░░░░░░░░` **13%**  (23/179 mavzu)
 
-- ⭐ Jami ball: **27719**
-- 📤 GitHubga yuborilgan topshiriqlar: **279**
+- ⭐ Jami ball: **27724**
+- 📤 GitHubga yuborilgan topshiriqlar: **280**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)**
+**MODUL 3 — Shartlar va Sikllar** → **if / elif / else ⭐ — shart operatorlari asoslari**
+
+➡️ Keyingi mavzu: *Ichma-ich shartlar (nested if) — mantiqni tartiblash*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
-- ✅ String metodlari — 1: lower, upper, strip, title
-- ✅ String metodlari — 2: replace, find, count, split, join
-- ✅ in operatori — substring izlash, mavjudlikni tekshirish
-- ✅ f-string ⭐ — zamonaviy formatlash (f"{ism}")
-- ✅ Boshqa formatlash — .format() va % (eski usullar)
-- ✅ Escape belgilar — \n, \t, \\, \"
-- ✅ Ko'p qatorli stringlar — """...""", docstring
-- ✅ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
-- ✅ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)  ← yetgan joyingiz
+- ✅ if / elif / else ⭐ — shart operatorlari asoslari  ← yetgan joyingiz
+- ⬜ Ichma-ich shartlar (nested if) — mantiqni tartiblash
+- ⬜ 🛠 Shartli menyu — oddiy CLI menyu
+- ⬜ while sikli ⭐ — shartga asoslangan takrorlash
+- ⬜ break va continue — sikldan chiqish va o'tkazib yuborish
+- ⬜ for va range() ⭐ — ketma-ket takrorlash
+- ⬜ for bilan kolleksiyalar — string/list bo'ylab yurish
+- ⬜ Pattern chizish — yulduzchalar, uchburchaklar (nested loop)
+- ⬜ Filtrlash — juft sonlar, musbat sonlar ajratish
+- ⬜ Hisoblash ⭐ — max, min, yig'indi, o'rtacha
+- ⬜ Nested loop — ko'paytirish jadvali
+- ⬜ Oddiy algoritmlar — bo'luvchilar, tub son tekshirish
+- ⬜ 🛠 Loyiha: Taxmin o'yini (Guess game) — random + while
+- ⬜ 🛠 Loyiha: Kengaytirilgan kalkulyator — menyu + sikl
+- ⬜ Infinite loop 🔁 — cheksiz sikl muammosi va oldini olish
 
 </details>
 
@@ -35,7 +42,7 @@
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `████████░░` 80% | 12/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
+| 3 | 🔸 Shartlar va Sikllar | `█░░░░░░░░░` 7% | 1/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -56,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-10 16:45</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-10 16:48</sub>
