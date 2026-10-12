@@ -1,0 +1,2 @@
+matn = input()
+print(matn)
