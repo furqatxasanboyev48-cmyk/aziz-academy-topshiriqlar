@@ -1,0 +1,5 @@
+n1 = input()
+a1 = input()
+n2 = input()
+a2 = input()
+print("Ism\tYosh\n" + n1 + "\t" + a1 + "\n" + n2 + "\t" + a2)
