@@ -1,0 +1,5 @@
+n = int(input())
+sonlar = list(map(int, input().split()))
+oxirgi = sonlar.pop()
+print(oxirgi)
+print(sonlar)
