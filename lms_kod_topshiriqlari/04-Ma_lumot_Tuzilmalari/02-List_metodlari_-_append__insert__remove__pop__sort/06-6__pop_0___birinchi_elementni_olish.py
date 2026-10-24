@@ -1,0 +1,5 @@
+n = int(input())
+sonlar = list(map(int, input().split()))
+birinchi = sonlar.pop(0)
+print(birinchi)
+print(sonlar)
