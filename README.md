@@ -4,16 +4,14 @@
 
 ## 📊 Umumiy progress
 
-`████░░░░░░░░░░░░░░░░` **22%**  (39/179 mavzu)
+`████░░░░░░░░░░░░░░░░` **22%**  (40/179 mavzu)
 
-- ⭐ Jami ball: **62388**
-- 📤 GitHubga yuborilgan topshiriqlar: **455**
+- ⭐ Jami ball: **62931**
+- 📤 GitHubga yuborilgan topshiriqlar: **456**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 3 — Shartlar va Sikllar** → **🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl**
-
-➡️ Keyingi mavzu: *Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish*
+**MODUL 3 — Shartlar va Sikllar** → **Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -31,8 +29,8 @@
 - ✅ Nested loop - ko'paytirish jadvali
 - ✅ Oddiy algoritmlar - bo'luvchilar, tub son tekshirish
 - ✅ 🛠 Loyiha: Taxmin o'yini (Guess game) - random + while
-- ✅ 🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl  ← yetgan joyingiz
-- ⬜ Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish
+- ✅ 🛠 Loyiha: Kengaytirilgan kalkulyator - menyu + sikl
+- ✅ Infinite loop 🔁 - cheksiz sikl muammosi va oldini olish  ← yetgan joyingiz
 
 </details>
 
@@ -42,7 +40,7 @@
 |---|-------|----------|----------|
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
-| 3 | 🔸 Shartlar va Sikllar | `█████████░` 93% | 14/15 |
+| 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
@@ -63,4 +61,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-24 13:58</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-24 14:43</sub>
