@@ -1,0 +1,7 @@
+n = int(input())
+a = list(map(int, input().split()))
+val = int(input())
+b = list(a)
+b.append(val)
+print(a)
+print(b)
