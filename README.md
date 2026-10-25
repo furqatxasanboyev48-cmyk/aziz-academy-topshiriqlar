@@ -4,24 +4,24 @@
 
 ## 📊 Umumiy progress
 
-`█████░░░░░░░░░░░░░░░` **24%**  (43/179 mavzu)
+`█████░░░░░░░░░░░░░░░` **25%**  (44/179 mavzu)
 
-- ⭐ Jami ball: **65164**
-- 📤 GitHubga yuborilgan topshiriqlar: **514**
+- ⭐ Jami ball: **65489**
+- 📤 GitHubga yuborilgan topshiriqlar: **515**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **List slicing va copy - list(), [:], shallow copy**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **🛠 List bilan masalalar - filtrlash, transformatsiya**
 
-➡️ Keyingi mavzu: *🛠 List bilan masalalar - filtrlash, transformatsiya*
+➡️ Keyingi mavzu: *Tuple - o'zgarmas tuzilma, qachon kerak*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ List - yaratish va index ⭐ - ro'yxat asoslari
 - ✅ List metodlari - append, insert, remove, pop, sort, reverse
-- ✅ List slicing va copy - list(), [:], shallow copy  ← yetgan joyingiz
-- ⬜ 🛠 List bilan masalalar - filtrlash, transformatsiya
+- ✅ List slicing va copy - list(), [:], shallow copy
+- ✅ 🛠 List bilan masalalar - filtrlash, transformatsiya  ← yetgan joyingiz
 - ⬜ Tuple - o'zgarmas tuzilma, qachon kerak
 - ⬜ Tuple unpacking ⭐ - a, b = b, a
 - ⬜ Dict - asoslar ⭐ - key/value, qiymatga murojaat
@@ -46,7 +46,7 @@
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `██░░░░░░░░` 17% | 3/18 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `██░░░░░░░░` 22% | 4/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-25 09:30</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-25 10:07</sub>
