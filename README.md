@@ -4,22 +4,22 @@
 
 ## 📊 Umumiy progress
 
-`█████░░░░░░░░░░░░░░░` **23%**  (41/179 mavzu)
+`█████░░░░░░░░░░░░░░░` **23%**  (42/179 mavzu)
 
-- ⭐ Jami ball: **63451**
-- 📤 GitHubga yuborilgan topshiriqlar: **484**
+- ⭐ Jami ball: **64455**
+- 📤 GitHubga yuborilgan topshiriqlar: **485**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **List - yaratish va index ⭐ - ro'yxat asoslari**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **List metodlari - append, insert, remove, pop, sort, reverse**
 
-➡️ Keyingi mavzu: *List metodlari - append, insert, remove, pop, sort, reverse*
+➡️ Keyingi mavzu: *List slicing va copy - list(), [:], shallow copy*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List - yaratish va index ⭐ - ro'yxat asoslari  ← yetgan joyingiz
-- ⬜ List metodlari - append, insert, remove, pop, sort, reverse
+- ✅ List - yaratish va index ⭐ - ro'yxat asoslari
+- ✅ List metodlari - append, insert, remove, pop, sort, reverse  ← yetgan joyingiz
 - ⬜ List slicing va copy - list(), [:], shallow copy
 - ⬜ 🛠 List bilan masalalar - filtrlash, transformatsiya
 - ⬜ Tuple - o'zgarmas tuzilma, qachon kerak
@@ -46,7 +46,7 @@
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `█░░░░░░░░░` 6% | 1/18 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `█░░░░░░░░░` 11% | 2/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-24 16:03</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-25 07:42</sub>
