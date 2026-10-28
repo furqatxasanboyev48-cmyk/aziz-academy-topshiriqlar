@@ -1,0 +1,6 @@
+ism = input()
+yosh = input()
+kurs = input()
+print(f"Ism: {ism}")
+print(f"Yosh: {yosh}")
+print(f"Kurs: {kurs}")
