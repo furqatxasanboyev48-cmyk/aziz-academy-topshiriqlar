@@ -1,0 +1,5 @@
+matn = input()
+soz = input()
+soni = matn.count(soz)
+print(matn.replace(soz, soz.upper()))
+print(soni)
