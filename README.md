@@ -4,16 +4,14 @@
 
 ## 📊 Umumiy progress
 
-`██████░░░░░░░░░░░░░░` **32%**  (57/179 mavzu)
+`██████░░░░░░░░░░░░░░` **32%**  (58/179 mavzu)
 
-- ⭐ Jami ball: **78968**
-- 📤 GitHubga yuborilgan topshiriqlar: **744**
+- ⭐ Jami ball: **79687**
+- 📤 GitHubga yuborilgan topshiriqlar: **745**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **🛠 Loyiha: Konsol jadval - ma'lumotni jadval ko'rinishida**
-
-➡️ Keyingi mavzu: *Mustahkamlash 🔁 - barcha tuzilmalar bo'yicha mashqlar*
+**MODUL 4 — Ma'lumot Tuzilmalari** → **Mustahkamlash 🔁 - barcha tuzilmalar bo'yicha mashqlar**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -34,8 +32,8 @@
 - ✅ Ma'lumotni tanlash ⭐ - list vs dict vs set
 - ✅ Big O - kirish ⭐ - nega dict tez, list sekin?
 - ✅ 🛠 Loyiha: Statistik hisoblagich - o'rtacha, mediana, moda
-- ✅ 🛠 Loyiha: Konsol jadval - ma'lumotni jadval ko'rinishida  ← yetgan joyingiz
-- ⬜ Mustahkamlash 🔁 - barcha tuzilmalar bo'yicha mashqlar
+- ✅ 🛠 Loyiha: Konsol jadval - ma'lumotni jadval ko'rinishida
+- ✅ Mustahkamlash 🔁 - barcha tuzilmalar bo'yicha mashqlar  ← yetgan joyingiz
 
 </details>
 
@@ -46,7 +44,7 @@
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `█████████░` 94% | 17/18 |
+| 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +64,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-31 14:39</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-31 15:32</sub>
