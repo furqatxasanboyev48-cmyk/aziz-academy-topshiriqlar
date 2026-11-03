@@ -1,0 +1,10 @@
+def calc_all(a, b, c):
+    return(a + b + c, a * b * c, max(a, b, c), min(a, b, c))
+qator = input().split()
+a = int(qator[0])
+b = int(qator[1])
+c = int(qator[2])
+s1, p1, mx1, mn1 = calc_all(a, b, c)
+print(f"pos: {s1} {p1} {mx1} {mn1}")
+s2, p2, mx2, mn2 = calc_all(c=c, a=a, b=b)
+print(f"named: {s2} {p2} {mx2} {mn2}")
