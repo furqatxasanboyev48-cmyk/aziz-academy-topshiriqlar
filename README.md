@@ -4,22 +4,22 @@
 
 ## 📊 Umumiy progress
 
-`███████░░░░░░░░░░░░░` **36%**  (64/179 mavzu)
+`███████░░░░░░░░░░░░░` **36%**  (65/179 mavzu)
 
-- ⭐ Jami ball: **87709**
-- 📤 GitHubga yuborilgan topshiriqlar: **867**
+- ⭐ Jami ball: **88288**
+- 📤 GitHubga yuborilgan topshiriqlar: **868**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 6 — Funksiyalar** → **Funksiyaga kirish ⭐ - def, parametr, return**
+**MODUL 6 — Funksiyalar** → **Parametr va argumentlar - positional vs named**
 
-➡️ Keyingi mavzu: *Parametr va argumentlar - positional vs named*
+➡️ Keyingi mavzu: *Default parametrlar - def f(x=10)*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Funksiyaga kirish ⭐ - def, parametr, return  ← yetgan joyingiz
-- ⬜ Parametr va argumentlar - positional vs named
+- ✅ Funksiyaga kirish ⭐ - def, parametr, return
+- ✅ Parametr va argumentlar - positional vs named  ← yetgan joyingiz
 - ⬜ Default parametrlar - def f(x=10)
 - ⬜ *args va **kwargs ⭐ - cheksiz argumentlar
 - ⬜ Scope ⭐ - local vs global, global kalit so'zi
@@ -42,7 +42,7 @@
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
-| 6 | 🔸 Funksiyalar | `█░░░░░░░░░` 8% | 1/12 |
+| 6 | 🔸 Funksiyalar | `██░░░░░░░░` 17% | 2/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
@@ -60,4 +60,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-03 15:57</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-03 17:02</sub>
