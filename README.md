@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████████░░░░░░░░░░░░` **38%**  (68/179 mavzu)
+`████████░░░░░░░░░░░░` **39%**  (69/179 mavzu)
 
-- ⭐ Jami ball: **91082**
-- 📤 GitHubga yuborilgan topshiriqlar: **925**
+- ⭐ Jami ball: **91645**
+- 📤 GitHubga yuborilgan topshiriqlar: **928**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 6 — Funksiyalar** → **Scope ⭐ - local vs global, global kalit so'zi**
+**MODUL 6 — Funksiyalar** → **Toza funksiya yozish - bitta vazifa, qisqa, tushunarli nom**
 
-➡️ Keyingi mavzu: *Toza funksiya yozish - bitta vazifa, qisqa, tushunarli nom*
+➡️ Keyingi mavzu: *Lambda funksiyalar - anonim funksiyalar, qachon ishlatish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -22,8 +22,8 @@
 - ✅ Parametr va argumentlar - positional vs named
 - ✅ Default parametrlar - def f(x=10)
 - ✅ *args va **kwargs ⭐ - cheksiz argumentlar
-- ✅ Scope ⭐ - local vs global, global kalit so'zi  ← yetgan joyingiz
-- ⬜ Toza funksiya yozish - bitta vazifa, qisqa, tushunarli nom
+- ✅ Scope ⭐ - local vs global, global kalit so'zi
+- ✅ Toza funksiya yozish - bitta vazifa, qisqa, tushunarli nom  ← yetgan joyingiz
 - ⬜ Lambda funksiyalar - anonim funksiyalar, qachon ishlatish
 - ⬜ map, filter, sorted(key=...) - funksional yondashuv
 - ⬜ Rekursiya - kirish ⭐ - faktorial, Fibonacci
@@ -42,7 +42,7 @@
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
-| 6 | 🔸 Funksiyalar | `████░░░░░░` 42% | 5/12 |
+| 6 | 🔸 Funksiyalar | `█████░░░░░` 50% | 6/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
@@ -60,4 +60,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-04 13:33</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-04 14:26</sub>
