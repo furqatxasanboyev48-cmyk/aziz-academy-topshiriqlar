@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████████░░░░░░░░░░░░` **41%**  (73/179 mavzu)
+`████████░░░░░░░░░░░░` **41%**  (74/179 mavzu)
 
-- ⭐ Jami ball: **96643**
-- 📤 GitHubga yuborilgan topshiriqlar: **1009**
+- ⭐ Jami ball: **97421**
+- 📤 GitHubga yuborilgan topshiriqlar: **1010**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 6 — Funksiyalar** → **Rekursiya - chuqurroq - base case, stack**
+**MODUL 6 — Funksiyalar** → **🛠 Loyiha: Funksiyalar kutubxonasi - utility funksiyalar**
 
-➡️ Keyingi mavzu: *🛠 Loyiha: Funksiyalar kutubxonasi - utility funksiyalar*
+➡️ Keyingi mavzu: *Mustahkamlash 🔁 - funksiyalar bo'yicha murakkab masalalar*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -27,8 +27,8 @@
 - ✅ Lambda funksiyalar - anonim funksiyalar, qachon ishlatish
 - ✅ map, filter, sorted(key=...) - funksional yondashuv
 - ✅ Rekursiya - kirish ⭐ - faktorial, Fibonacci
-- ✅ Rekursiya - chuqurroq - base case, stack  ← yetgan joyingiz
-- ⬜ 🛠 Loyiha: Funksiyalar kutubxonasi - utility funksiyalar
+- ✅ Rekursiya - chuqurroq - base case, stack
+- ✅ 🛠 Loyiha: Funksiyalar kutubxonasi - utility funksiyalar  ← yetgan joyingiz
 - ⬜ Mustahkamlash 🔁 - funksiyalar bo'yicha murakkab masalalar
 
 </details>
@@ -42,7 +42,7 @@
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
-| 6 | 🔸 Funksiyalar | `████████░░` 83% | 10/12 |
+| 6 | 🔸 Funksiyalar | `█████████░` 92% | 11/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
@@ -60,4 +60,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-06 09:37</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-06 10:12</sub>
