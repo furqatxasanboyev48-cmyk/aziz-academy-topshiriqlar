@@ -1,0 +1,1 @@
+print("Ha" if int(input()) % 2 == 0 else "Yo'q")
