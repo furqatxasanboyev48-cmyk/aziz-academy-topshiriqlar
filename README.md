@@ -4,30 +4,35 @@
 
 ## 📊 Umumiy progress
 
-`████████░░░░░░░░░░░░` **42%**  (75/179 mavzu)
+`████████░░░░░░░░░░░░` **42%**  (76/179 mavzu)
 
-- ⭐ Jami ball: **98105**
-- 📤 GitHubga yuborilgan topshiriqlar: **1039**
+- ⭐ Jami ball: **98861**
+- 📤 GitHubga yuborilgan topshiriqlar: **1040**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 6 — Funksiyalar** → **Mustahkamlash 🔁 - funksiyalar bo'yicha murakkab masalalar**
+**MODUL 7 — Modullar va Fayllar** → **Modullarga bo'lish - bitta faylda bir nechta funksiya**
+
+➡️ Keyingi mavzu: *O'z modulini yaratish ⭐ - import qilish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Funksiyaga kirish ⭐ - def, parametr, return
-- ✅ Parametr va argumentlar - positional vs named
-- ✅ Default parametrlar - def f(x=10)
-- ✅ *args va **kwargs ⭐ - cheksiz argumentlar
-- ✅ Scope ⭐ - local vs global, global kalit so'zi
-- ✅ Toza funksiya yozish - bitta vazifa, qisqa, tushunarli nom
-- ✅ Lambda funksiyalar - anonim funksiyalar, qachon ishlatish
-- ✅ map, filter, sorted(key=...) - funksional yondashuv
-- ✅ Rekursiya - kirish ⭐ - faktorial, Fibonacci
-- ✅ Rekursiya - chuqurroq - base case, stack
-- ✅ 🛠 Loyiha: Funksiyalar kutubxonasi - utility funksiyalar
-- ✅ Mustahkamlash 🔁 - funksiyalar bo'yicha murakkab masalalar  ← yetgan joyingiz
+- ✅ Modullarga bo'lish - bitta faylda bir nechta funksiya  ← yetgan joyingiz
+- ⬜ O'z modulini yaratish ⭐ - import qilish
+- ⬜ import turlari - import x vs from x import y
+- ⬜ math moduli - matematik funksiyalar
+- ⬜ random moduli ⭐ - tasodifiy sonlar, tanlash, aralashtirish
+- ⬜ datetime moduli - sana va vaqt bilan ishlash
+- ⬜ time va benchmark - vaqtni o'lchash, dastur tezligi
+- ⬜ Fayllar - 1 ⭐ - open, read, write, rejimlar (r, w, a)
+- ⬜ Fayllar - 2 ⭐ - with va context manager
+- ⬜ CSV bilan ishlash - csv moduli, jadval ma'lumotlari
+- ⬜ JSON bilan ishlash ⭐ - json moduli, saqlash/o'qish
+- ⬜ 🛠 Loyiha: To-Do / Telefon kitobcha - fayl asosida CRUD
+- ⬜ os va pathlib bilan fayl tizimida yurish
+- ⬜ Konfiguratsiya fayllari, log fayl tushunchasi
+- ⬜ Fayl kodirovkasi, UTF-8, oddiy muammolar
 
 </details>
 
@@ -41,7 +46,7 @@
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
-| 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
+| 7 | 🔸 Modullar va Fayllar | `█░░░░░░░░░` 7% | 1/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
@@ -58,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-07 15:43</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-07 17:26</sub>
