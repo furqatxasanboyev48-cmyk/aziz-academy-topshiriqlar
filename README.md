@@ -4,24 +4,24 @@
 
 ## 📊 Umumiy progress
 
-`█████████░░░░░░░░░░░` **44%**  (78/179 mavzu)
+`█████████░░░░░░░░░░░` **44%**  (79/179 mavzu)
 
-- ⭐ Jami ball: **100700**
-- 📤 GitHubga yuborilgan topshiriqlar: **1085**
+- ⭐ Jami ball: **101142**
+- 📤 GitHubga yuborilgan topshiriqlar: **1088**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 7 — Modullar va Fayllar** → **import turlari - import x vs from x import y**
+**MODUL 7 — Modullar va Fayllar** → **math moduli - matematik funksiyalar**
 
-➡️ Keyingi mavzu: *math moduli - matematik funksiyalar*
+➡️ Keyingi mavzu: *random moduli ⭐ - tasodifiy sonlar, tanlash, aralashtirish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ Modullarga bo'lish - bitta faylda bir nechta funksiya
 - ✅ O'z modulini yaratish ⭐ - import qilish
-- ✅ import turlari - import x vs from x import y  ← yetgan joyingiz
-- ⬜ math moduli - matematik funksiyalar
+- ✅ import turlari - import x vs from x import y
+- ✅ math moduli - matematik funksiyalar  ← yetgan joyingiz
 - ⬜ random moduli ⭐ - tasodifiy sonlar, tanlash, aralashtirish
 - ⬜ datetime moduli - sana va vaqt bilan ishlash
 - ⬜ time va benchmark - vaqtni o'lchash, dastur tezligi
@@ -46,7 +46,7 @@
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
-| 7 | 🔸 Modullar va Fayllar | `██░░░░░░░░` 20% | 3/15 |
+| 7 | 🔸 Modullar va Fayllar | `███░░░░░░░` 27% | 4/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-09 13:11</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-09 13:49</sub>
