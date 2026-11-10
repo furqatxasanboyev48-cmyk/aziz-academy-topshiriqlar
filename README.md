@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`█████████░░░░░░░░░░░` **45%**  (80/179 mavzu)
+`█████████░░░░░░░░░░░` **45%**  (81/179 mavzu)
 
-- ⭐ Jami ball: **101916**
-- 📤 GitHubga yuborilgan topshiriqlar: **1115**
+- ⭐ Jami ball: **103139**
+- 📤 GitHubga yuborilgan topshiriqlar: **1116**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 7 — Modullar va Fayllar** → **random moduli ⭐ - tasodifiy sonlar, tanlash, aralashtirish**
+**MODUL 7 — Modullar va Fayllar** → **datetime moduli - sana va vaqt bilan ishlash**
 
-➡️ Keyingi mavzu: *datetime moduli - sana va vaqt bilan ishlash*
+➡️ Keyingi mavzu: *time va benchmark - vaqtni o'lchash, dastur tezligi*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -22,8 +22,8 @@
 - ✅ O'z modulini yaratish ⭐ - import qilish
 - ✅ import turlari - import x vs from x import y
 - ✅ math moduli - matematik funksiyalar
-- ✅ random moduli ⭐ - tasodifiy sonlar, tanlash, aralashtirish  ← yetgan joyingiz
-- ⬜ datetime moduli - sana va vaqt bilan ishlash
+- ✅ random moduli ⭐ - tasodifiy sonlar, tanlash, aralashtirish
+- ✅ datetime moduli - sana va vaqt bilan ishlash  ← yetgan joyingiz
 - ⬜ time va benchmark - vaqtni o'lchash, dastur tezligi
 - ⬜ Fayllar - 1 ⭐ - open, read, write, rejimlar (r, w, a)
 - ⬜ Fayllar - 2 ⭐ - with va context manager
@@ -46,7 +46,7 @@
 | 4 | ✅ Ma'lumot Tuzilmalari | `██████████` 100% | 18/18 |
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
-| 7 | 🔸 Modullar va Fayllar | `███░░░░░░░` 33% | 5/15 |
+| 7 | 🔸 Modullar va Fayllar | `████░░░░░░` 40% | 6/15 |
 | 8 | ⬜ Xatolar, Test va Debug | `░░░░░░░░░░` 0% | 0/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-10 06:50</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-10 11:41</sub>
