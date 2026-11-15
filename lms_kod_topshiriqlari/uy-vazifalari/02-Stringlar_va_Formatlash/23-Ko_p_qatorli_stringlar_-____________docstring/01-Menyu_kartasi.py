@@ -1,0 +1,7 @@
+a = input()
+b = input()
+c = input()
+print("--- MENYU ---")
+print(f"1. {a}")
+print(f"2. {b}")
+print(f"3. {c}")
