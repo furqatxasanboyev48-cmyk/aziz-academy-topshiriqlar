@@ -4,24 +4,24 @@
 
 ## 📊 Umumiy progress
 
-`██████████░░░░░░░░░░` **52%**  (93/179 mavzu)
+`███████████░░░░░░░░░` **53%**  (94/179 mavzu)
 
-- ⭐ Jami ball: **120636**
-- 📤 GitHubga yuborilgan topshiriqlar: **1345**
+- ⭐ Jami ball: **121279**
+- 📤 GitHubga yuborilgan topshiriqlar: **1347**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 8 — Xatolar, Test va Debug** → **Aniq exception turlari ⭐ - ValueError, KeyError, TypeError**
+**MODUL 8 — Xatolar, Test va Debug** → **O'z xatongni raise qilish - xato yaratish, qachon kerak**
 
-➡️ Keyingi mavzu: *O'z xatongni raise qilish - xato yaratish, qachon kerak*
+➡️ Keyingi mavzu: *assert - o'z-o'zini tekshirish*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ try / except ⭐ - xatoliklarni ushlash asoslari
 - ✅ else va finally - to'liq xatolik bloki
-- ✅ Aniq exception turlari ⭐ - ValueError, KeyError, TypeError  ← yetgan joyingiz
-- ⬜ O'z xatongni raise qilish - xato yaratish, qachon kerak
+- ✅ Aniq exception turlari ⭐ - ValueError, KeyError, TypeError
+- ✅ O'z xatongni raise qilish - xato yaratish, qachon kerak  ← yetgan joyingiz
 - ⬜ assert - o'z-o'zini tekshirish
 - ⬜ logging moduli ⭐ - print o'rniga professional log
 - ⬜ Debugging - print-debug vs debugger (pdb / IDE)
@@ -43,7 +43,7 @@
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
-| 8 | 🔸 Xatolar, Test va Debug | `███░░░░░░░` 27% | 3/11 |
+| 8 | 🔸 Xatolar, Test va Debug | `████░░░░░░` 36% | 4/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
@@ -59,4 +59,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-17 11:33</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-17 12:29</sub>
