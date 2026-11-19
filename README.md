@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`███████████░░░░░░░░░` **54%**  (97/179 mavzu)
+`███████████░░░░░░░░░` **55%**  (98/179 mavzu)
 
-- ⭐ Jami ball: **124845**
-- 📤 GitHubga yuborilgan topshiriqlar: **1409**
+- ⭐ Jami ball: **125460**
+- 📤 GitHubga yuborilgan topshiriqlar: **1410**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 8 — Xatolar, Test va Debug** → **Debugging - print-debug vs debugger (pdb / IDE)**
+**MODUL 8 — Xatolar, Test va Debug** → **pytest bilan test ⭐ - zamonaviy test yozish**
 
-➡️ Keyingi mavzu: *pytest bilan test ⭐ - zamonaviy test yozish*
+➡️ Keyingi mavzu: *TDD tushunchasi - avval test, keyin kod*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -24,8 +24,8 @@
 - ✅ O'z xatongni raise qilish - xato yaratish, qachon kerak
 - ✅ assert - o'z-o'zini tekshirish
 - ✅ logging moduli ⭐ - print o'rniga professional log
-- ✅ Debugging - print-debug vs debugger (pdb / IDE)  ← yetgan joyingiz
-- ⬜ pytest bilan test ⭐ - zamonaviy test yozish
+- ✅ Debugging - print-debug vs debugger (pdb / IDE)
+- ✅ pytest bilan test ⭐ - zamonaviy test yozish  ← yetgan joyingiz
 - ⬜ TDD tushunchasi - avval test, keyin kod
 - ⬜ Toza kod tavsiyalari 🔁 - xatosiz kod yozish prinsiplari
 - ⬜ doctest tushunchasi
@@ -43,7 +43,7 @@
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
-| 8 | 🔸 Xatolar, Test va Debug | `██████░░░░` 64% | 7/11 |
+| 8 | 🔸 Xatolar, Test va Debug | `███████░░░` 73% | 8/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
@@ -59,4 +59,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-19 12:05</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-19 12:49</sub>
