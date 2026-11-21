@@ -4,16 +4,14 @@
 
 ## 📊 Umumiy progress
 
-`███████████░░░░░░░░░` **56%**  (100/179 mavzu)
+`███████████░░░░░░░░░` **56%**  (101/179 mavzu)
 
-- ⭐ Jami ball: **127738**
-- 📤 GitHubga yuborilgan topshiriqlar: **1453**
+- ⭐ Jami ball: **128315**
+- 📤 GitHubga yuborilgan topshiriqlar: **1454**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 8 — Xatolar, Test va Debug** → **Toza kod tavsiyalari 🔁 - xatosiz kod yozish prinsiplari**
-
-➡️ Keyingi mavzu: *doctest tushunchasi*
+**MODUL 8 — Xatolar, Test va Debug** → **doctest tushunchasi**
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -27,8 +25,8 @@
 - ✅ Debugging - print-debug vs debugger (pdb / IDE)
 - ✅ pytest bilan test ⭐ - zamonaviy test yozish
 - ✅ TDD tushunchasi - avval test, keyin kod
-- ✅ Toza kod tavsiyalari 🔁 - xatosiz kod yozish prinsiplari  ← yetgan joyingiz
-- ⬜ doctest tushunchasi
+- ✅ Toza kod tavsiyalari 🔁 - xatosiz kod yozish prinsiplari
+- ✅ doctest tushunchasi  ← yetgan joyingiz
 
 </details>
 
@@ -43,7 +41,7 @@
 | 5 | ✅ Comprehensions | `██████████` 100% | 5/5 |
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
-| 8 | 🔸 Xatolar, Test va Debug | `█████████░` 91% | 10/11 |
+| 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
 | 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
@@ -59,4 +57,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-21 04:25</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-21 05:14</sub>
