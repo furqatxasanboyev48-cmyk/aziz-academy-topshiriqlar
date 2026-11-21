@@ -4,29 +4,38 @@
 
 ## 📊 Umumiy progress
 
-`███████████░░░░░░░░░` **56%**  (101/179 mavzu)
+`███████████░░░░░░░░░` **57%**  (102/179 mavzu)
 
-- ⭐ Jami ball: **128835**
-- 📤 GitHubga yuborilgan topshiriqlar: **1468**
+- ⭐ Jami ball: **128840**
+- 📤 GitHubga yuborilgan topshiriqlar: **1469**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 8 — Xatolar, Test va Debug** → **doctest tushunchasi**
+**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **OOP tushunchasi ⭐ - 4 ustun: inkapsulyatsiya, meros, polimorfizm, abstraksiya**
+
+➡️ Keyingi mavzu: *Class va obyekt ⭐ - __init__, atributlar*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ try / except ⭐ - xatoliklarni ushlash asoslari
-- ✅ else va finally - to'liq xatolik bloki
-- ✅ Aniq exception turlari ⭐ - ValueError, KeyError, TypeError
-- ✅ O'z xatongni raise qilish - xato yaratish, qachon kerak
-- ✅ assert - o'z-o'zini tekshirish
-- ✅ logging moduli ⭐ - print o'rniga professional log
-- ✅ Debugging - print-debug vs debugger (pdb / IDE)
-- ✅ pytest bilan test ⭐ - zamonaviy test yozish
-- ✅ TDD tushunchasi - avval test, keyin kod
-- ✅ Toza kod tavsiyalari 🔁 - xatosiz kod yozish prinsiplari
-- ✅ doctest tushunchasi  ← yetgan joyingiz
+- ✅ OOP tushunchasi ⭐ - 4 ustun: inkapsulyatsiya, meros, polimorfizm, abstraksiya  ← yetgan joyingiz
+- ⬜ Class va obyekt ⭐ - __init__, atributlar
+- ⬜ Metodlar va self ⭐ - instance metodlar
+- ⬜ Inkapsulyatsiya - private atributlar (_, __ konvensiya)
+- ⬜ @property ⭐ - getter/setter to'g'ri yo'li
+- ⬜ classmethod va staticmethod - turli metod turlari
+- ⬜ Meros (Inheritance) ⭐ - class Child(Parent)
+- ⬜ super() va override - ota-klass metodini chaqirish
+- ⬜ Polimorfizm - bir metod, turli xulq
+- ⬜ Composition vs Inheritance ⭐ - qachon meros, qachon kompozitsiya
+- ⬜ Dunder metodlar - 1: __str__, __repr__
+- ⬜ Dunder metodlar - 2: __len__, __eq__, __lt__
+- ⬜ Abstract Base Class (ABC) - abc moduli, majburiy metodlar
+- ⬜ dataclasses ⭐ - sodda model yozishning zamonaviy yo'li
+- ⬜ 🛠 Loyiha: Bank hisobi tizimi - Account, Transaction klasslari
+- ⬜ 🛠 Loyiha: Student / Course modeli - OOP + fayl saqlash
+- ⬜ OOP dizayn tamoyillari - SOLID'ga qisqa kirish
+- ⬜ Mustahkamlash 🔁 - OOP bo'yicha kompleks masala
 
 </details>
 
@@ -42,7 +51,7 @@
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
 | 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | ⬜ OOP (Obyektga Yo'naltirilgan Dasturlash) | `░░░░░░░░░░` 0% | 0/18 |
+| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `█░░░░░░░░░` 6% | 1/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -57,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-21 10:33</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-21 10:34</sub>
