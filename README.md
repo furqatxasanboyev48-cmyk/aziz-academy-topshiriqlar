@@ -4,22 +4,22 @@
 
 ## 📊 Umumiy progress
 
-`███████████░░░░░░░░░` **57%**  (102/179 mavzu)
+`████████████░░░░░░░░` **58%**  (103/179 mavzu)
 
-- ⭐ Jami ball: **129251**
-- 📤 GitHubga yuborilgan topshiriqlar: **1484**
+- ⭐ Jami ball: **130060**
+- 📤 GitHubga yuborilgan topshiriqlar: **1485**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **OOP tushunchasi ⭐ - 4 ustun: inkapsulyatsiya, meros, polimorfizm, abstraksiya**
+**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **Class va obyekt ⭐ - __init__, atributlar**
 
-➡️ Keyingi mavzu: *Class va obyekt ⭐ - __init__, atributlar*
+➡️ Keyingi mavzu: *Metodlar va self ⭐ - instance metodlar*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ OOP tushunchasi ⭐ - 4 ustun: inkapsulyatsiya, meros, polimorfizm, abstraksiya  ← yetgan joyingiz
-- ⬜ Class va obyekt ⭐ - __init__, atributlar
+- ✅ OOP tushunchasi ⭐ - 4 ustun: inkapsulyatsiya, meros, polimorfizm, abstraksiya
+- ✅ Class va obyekt ⭐ - __init__, atributlar  ← yetgan joyingiz
 - ⬜ Metodlar va self ⭐ - instance metodlar
 - ⬜ Inkapsulyatsiya - private atributlar (_, __ konvensiya)
 - ⬜ @property ⭐ - getter/setter to'g'ri yo'li
@@ -51,7 +51,7 @@
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
 | 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `█░░░░░░░░░` 6% | 1/18 |
+| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `█░░░░░░░░░` 11% | 2/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-21 16:51</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-22 08:10</sub>
