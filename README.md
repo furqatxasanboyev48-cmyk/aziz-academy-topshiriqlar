@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████████████░░░░░░░░` **59%**  (105/179 mavzu)
+`████████████░░░░░░░░` **59%**  (106/179 mavzu)
 
-- ⭐ Jami ball: **132053**
-- 📤 GitHubga yuborilgan topshiriqlar: **1529**
+- ⭐ Jami ball: **132558**
+- 📤 GitHubga yuborilgan topshiriqlar: **1530**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **Inkapsulyatsiya - private atributlar (_, __ konvensiya)**
+**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **@property ⭐ - getter/setter to'g'ri yo'li**
 
-➡️ Keyingi mavzu: *@property ⭐ - getter/setter to'g'ri yo'li*
+➡️ Keyingi mavzu: *classmethod va staticmethod - turli metod turlari*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -21,8 +21,8 @@
 - ✅ OOP tushunchasi ⭐ - 4 ustun: inkapsulyatsiya, meros, polimorfizm, abstraksiya
 - ✅ Class va obyekt ⭐ - __init__, atributlar
 - ✅ Metodlar va self ⭐ - instance metodlar
-- ✅ Inkapsulyatsiya - private atributlar (_, __ konvensiya)  ← yetgan joyingiz
-- ⬜ @property ⭐ - getter/setter to'g'ri yo'li
+- ✅ Inkapsulyatsiya - private atributlar (_, __ konvensiya)
+- ✅ @property ⭐ - getter/setter to'g'ri yo'li  ← yetgan joyingiz
 - ⬜ classmethod va staticmethod - turli metod turlari
 - ⬜ Meros (Inheritance) ⭐ - class Child(Parent)
 - ⬜ super() va override - ota-klass metodini chaqirish
@@ -51,7 +51,7 @@
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
 | 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `██░░░░░░░░` 22% | 4/18 |
+| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `███░░░░░░░` 28% | 5/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-24 13:01</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-25 10:51</sub>
