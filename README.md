@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████████████░░░░░░░░` **59%**  (106/179 mavzu)
+`████████████░░░░░░░░` **60%**  (107/179 mavzu)
 
-- ⭐ Jami ball: **132798**
-- 📤 GitHubga yuborilgan topshiriqlar: **1544**
+- ⭐ Jami ball: **133739**
+- 📤 GitHubga yuborilgan topshiriqlar: **1545**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **@property ⭐ - getter/setter to'g'ri yo'li**
+**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **classmethod va staticmethod - turli metod turlari**
 
-➡️ Keyingi mavzu: *classmethod va staticmethod - turli metod turlari*
+➡️ Keyingi mavzu: *Meros (Inheritance) ⭐ - class Child(Parent)*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -22,8 +22,8 @@
 - ✅ Class va obyekt ⭐ - __init__, atributlar
 - ✅ Metodlar va self ⭐ - instance metodlar
 - ✅ Inkapsulyatsiya - private atributlar (_, __ konvensiya)
-- ✅ @property ⭐ - getter/setter to'g'ri yo'li  ← yetgan joyingiz
-- ⬜ classmethod va staticmethod - turli metod turlari
+- ✅ @property ⭐ - getter/setter to'g'ri yo'li
+- ✅ classmethod va staticmethod - turli metod turlari  ← yetgan joyingiz
 - ⬜ Meros (Inheritance) ⭐ - class Child(Parent)
 - ⬜ super() va override - ota-klass metodini chaqirish
 - ⬜ Polimorfizm - bir metod, turli xulq
@@ -51,7 +51,7 @@
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
 | 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `███░░░░░░░` 28% | 5/18 |
+| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `███░░░░░░░` 33% | 6/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-25 13:13</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-25 14:13</sub>
