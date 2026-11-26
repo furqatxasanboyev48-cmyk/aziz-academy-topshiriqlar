@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████████████░░░░░░░░` **60%**  (108/179 mavzu)
+`████████████░░░░░░░░` **61%**  (109/179 mavzu)
 
-- ⭐ Jami ball: **134846**
-- 📤 GitHubga yuborilgan topshiriqlar: **1573**
+- ⭐ Jami ball: **135181**
+- 📤 GitHubga yuborilgan topshiriqlar: **1574**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **Meros (Inheritance) ⭐ - class Child(Parent)**
+**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **super() va override - ota-klass metodini chaqirish**
 
-➡️ Keyingi mavzu: *super() va override - ota-klass metodini chaqirish*
+➡️ Keyingi mavzu: *Polimorfizm - bir metod, turli xulq*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -24,8 +24,8 @@
 - ✅ Inkapsulyatsiya - private atributlar (_, __ konvensiya)
 - ✅ @property ⭐ - getter/setter to'g'ri yo'li
 - ✅ classmethod va staticmethod - turli metod turlari
-- ✅ Meros (Inheritance) ⭐ - class Child(Parent)  ← yetgan joyingiz
-- ⬜ super() va override - ota-klass metodini chaqirish
+- ✅ Meros (Inheritance) ⭐ - class Child(Parent)
+- ✅ super() va override - ota-klass metodini chaqirish  ← yetgan joyingiz
 - ⬜ Polimorfizm - bir metod, turli xulq
 - ⬜ Composition vs Inheritance ⭐ - qachon meros, qachon kompozitsiya
 - ⬜ Dunder metodlar - 1: __str__, __repr__
@@ -51,7 +51,7 @@
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
 | 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `████░░░░░░` 39% | 7/18 |
+| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `████░░░░░░` 44% | 8/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-26 14:48</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-26 16:31</sub>
