@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████████████░░░░░░░░` **61%**  (109/179 mavzu)
+`████████████░░░░░░░░` **61%**  (110/179 mavzu)
 
-- ⭐ Jami ball: **135571**
-- 📤 GitHubga yuborilgan topshiriqlar: **1588**
+- ⭐ Jami ball: **136548**
+- 📤 GitHubga yuborilgan topshiriqlar: **1589**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **super() va override - ota-klass metodini chaqirish**
+**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **Polimorfizm - bir metod, turli xulq**
 
-➡️ Keyingi mavzu: *Polimorfizm - bir metod, turli xulq*
+➡️ Keyingi mavzu: *Composition vs Inheritance ⭐ - qachon meros, qachon kompozitsiya*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -25,8 +25,8 @@
 - ✅ @property ⭐ - getter/setter to'g'ri yo'li
 - ✅ classmethod va staticmethod - turli metod turlari
 - ✅ Meros (Inheritance) ⭐ - class Child(Parent)
-- ✅ super() va override - ota-klass metodini chaqirish  ← yetgan joyingiz
-- ⬜ Polimorfizm - bir metod, turli xulq
+- ✅ super() va override - ota-klass metodini chaqirish
+- ✅ Polimorfizm - bir metod, turli xulq  ← yetgan joyingiz
 - ⬜ Composition vs Inheritance ⭐ - qachon meros, qachon kompozitsiya
 - ⬜ Dunder metodlar - 1: __str__, __repr__
 - ⬜ Dunder metodlar - 2: __len__, __eq__, __lt__
@@ -51,7 +51,7 @@
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
 | 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `████░░░░░░` 44% | 8/18 |
+| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `█████░░░░░` 50% | 9/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-27 13:35</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-27 14:36</sub>
