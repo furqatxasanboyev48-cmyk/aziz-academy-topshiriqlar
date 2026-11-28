@@ -4,16 +4,16 @@
 
 ## 📊 Umumiy progress
 
-`████████████░░░░░░░░` **62%**  (111/179 mavzu)
+`█████████████░░░░░░░` **63%**  (112/179 mavzu)
 
-- ⭐ Jami ball: **137814**
-- 📤 GitHubga yuborilgan topshiriqlar: **1618**
+- ⭐ Jami ball: **138652**
+- 📤 GitHubga yuborilgan topshiriqlar: **1619**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **Composition vs Inheritance ⭐ - qachon meros, qachon kompozitsiya**
+**MODUL 9 — OOP (Obyektga Yo'naltirilgan Dasturlash)** → **Dunder metodlar - 1: __str__, __repr__**
 
-➡️ Keyingi mavzu: *Dunder metodlar - 1: __str__, __repr__*
+➡️ Keyingi mavzu: *Dunder metodlar - 2: __len__, __eq__, __lt__*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
@@ -27,8 +27,8 @@
 - ✅ Meros (Inheritance) ⭐ - class Child(Parent)
 - ✅ super() va override - ota-klass metodini chaqirish
 - ✅ Polimorfizm - bir metod, turli xulq
-- ✅ Composition vs Inheritance ⭐ - qachon meros, qachon kompozitsiya  ← yetgan joyingiz
-- ⬜ Dunder metodlar - 1: __str__, __repr__
+- ✅ Composition vs Inheritance ⭐ - qachon meros, qachon kompozitsiya
+- ✅ Dunder metodlar - 1: __str__, __repr__  ← yetgan joyingiz
 - ⬜ Dunder metodlar - 2: __len__, __eq__, __lt__
 - ⬜ Abstract Base Class (ABC) - abc moduli, majburiy metodlar
 - ⬜ dataclasses ⭐ - sodda model yozishning zamonaviy yo'li
@@ -51,7 +51,7 @@
 | 6 | ✅ Funksiyalar | `██████████` 100% | 12/12 |
 | 7 | ✅ Modullar va Fayllar | `██████████` 100% | 15/15 |
 | 8 | ✅ Xatolar, Test va Debug | `██████████` 100% | 11/11 |
-| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `██████░░░░` 56% | 10/18 |
+| 9 | 🔸 OOP (Obyektga Yo'naltirilgan Dasturlash) | `██████░░░░` 61% | 11/18 |
 | 10 | ⬜ Iterator, Generator, Decorator | `░░░░░░░░░░` 0% | 0/10 |
 | 11 | ⬜ Git va Version Control | `░░░░░░░░░░` 0% | 0/6 |
 | 12 | ⬜ Algoritmlar va Ma'lumot Strukturalari | `░░░░░░░░░░` 0% | 0/12 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-28 09:33</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-11-28 10:21</sub>
